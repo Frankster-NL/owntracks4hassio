@@ -8,7 +8,7 @@ arch:
 - aarch64
 - amd64
 - i386
-url: https://github.com/HAKorea/addons
+url: https://github.com/Frankster-NL/owntracks4hassio/
 startup: application
 boot: auto
 ingress: true
